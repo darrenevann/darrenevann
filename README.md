@@ -1,16 +1,34 @@
-## Hi there 👋
+# Darren Evan Nathanael
+**Information Systems Student**
 
-<!--
-**darrenevann/darrenevann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Overview
+Saya adalah pengembang perangkat lunak yang berfokus pada pembangunan sistem yang terstruktur dan scalable. Saya memiliki ketertarikan kuat pada arsitektur database, desain sistem, dan logika backend. Fokus utama saya adalah mentransformasikan kebutuhan bisnis yang kompleks menjadi solusi teknis yang efisien.
 
-Here are some ideas to get you started:
+## Technical Stack
+* **Languages:** Java (Spring Boot), PHP, JavaScript (ES6+), SQL.
+* **Databases:** Oracle Database (Linux environment).
+* **System Design:** Context Diagrams, DFD, ERD, Class Diagrams (OOP Principles).
+* **Environment & Tools:** Linux Administration, Git, XAMPP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Key Projects
+### SancWallet - Financial Tracking Web App
+* Aplikasi pengelolaan keuangan pribadi dengan fokus pada akurasi data dan pelaporan.
+* Stack: PHP, MySQL.
+
+### BeliSkill - Freelance Marketplace
+* Platform penghubung penyedia jasa dan klien, dioptimalkan untuk alur kerja transaksi yang aman.
+* Stack: PHP, JavaScript.
+
+### Expedition Management System
+* Sistem manajemen pengiriman barang dengan implementasi OOP yang mendalam (Inheritance, Polymorphism).
+* Stack: Java (Spring Boot).
+
+## Organization & Leadership
+* BEM Universitas Tarumanagara
+* **UKM Open House 2025: ** Koordinator Divisi Keamanan.
+* **Tarumanagara Fair 2026: ** Bertanggung jawab atas jalannya acara.
+* **Desa Binaan 2026: ** Koordinator Divisi Dana dan Sponsor.
+
+## Contact & Links
+* **LinkedIn:** [https://www.linkedin.com/in/darren-evan-nathanael-014503283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+* **Email:** [darren.evan.dev@gmail.com]
