@@ -11,17 +11,13 @@ Saya adalah pengembang perangkat lunak yang berfokus pada pembangunan sistem yan
 * **Environment & Tools:** Linux Administration, Git, XAMPP.
 
 ## Key Projects
-### SancWallet - Financial Tracking Web App
-* Aplikasi pengelolaan keuangan pribadi dengan fokus pada akurasi data dan pelaporan.
-* Stack: PHP, MySQL.
-
-### BeliSkill - Freelance Marketplace
-* Platform penghubung penyedia jasa dan klien, dioptimalkan untuk alur kerja transaksi yang aman.
-* Stack: PHP, JavaScript.
-
 ### Expedition Management System
 * Sistem manajemen pengiriman barang dengan implementasi OOP yang mendalam (Inheritance, Polymorphism).
 * Stack: Java (Spring Boot).
+
+### Sistem Portal Kampus
+* Sistem portal informasi akademik untuk manajemen pendaftaran skripsi, bimbingan dosen, penjadwalan ujian sidang, dan pengelolaan data penerima beasiswa.
+* Stack: PHP, MySQL, Bootstrap.
 
 ## Organization & Leadership
 * BEM Universitas Tarumanagara
