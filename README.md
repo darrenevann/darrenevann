@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Full-Stack+Developer;Java+Spring+Boot+%7C+PHP+%7C+Flutter;Database+Architecture+%26+System+Design;Turning+complex+requirements+into+efficient+solutions)](https://github.com/darrenevann)
 
-![Profile Views](https://komarev.com/ghpvc/?username=darrenevann&label=Profile%20Views&color=58a6ff&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/darrenevann?style=for-the-badge&logo=github&color=181717)
 
 </div>
 
