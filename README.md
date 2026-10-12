@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=200&section=header&text=Darren%20Evan%20Nathanael&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20Software%20Developer&descAlignY=58&descSize=18" alt="header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Full-Stack+Developer;Java+Spring+Boot+%7C+PHP+%7C+Flutter;Database+Architecture+%26+System+Design;Turning+complex+requirements+into+efficient+solutions)](https://github.com/darrenevann)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Full-Stack+Developer;Java+Spring+Boot+%7C+PHP+%7C+Flutter;Database+Architecture+%26+System+Design)](https://github.com/darrenevann)
 
 
 </div>
@@ -84,6 +84,33 @@ An academic information portal for thesis registration, supervision, exam schedu
 
 A cross-platform finance tracker with a custom neo-brutalist UI, automatic transaction categorization, per-category budgets, a 6-month expense chart, and local data persistence.
 
+## 🏛️ Organization & Leadership
+
+Active in student organizations at **Universitas Tarumanagara** through **BEM UNTAR**, with hands-on experience leading teams, securing funding, and running large-scale campus events.
+
+<div align="center">
+
+![Activities](https://img.shields.io/badge/Activities-9-58a6ff?style=for-the-badge)
+![Leadership Roles](https://img.shields.io/badge/Leadership%20Roles-4-FFD166?style=for-the-badge)
+![Committee Member](https://img.shields.io/badge/Committee%20Member-3-B5E48C?style=for-the-badge)
+![Training](https://img.shields.io/badge/Leadership%20Training-2-FF9E9E?style=for-the-badge)
+
+</div>
+
+| Period | Role | Organization / Event | Type |
+| :--- | :--- | :--- | :---: |
+| **Nov 2026** | **Event Chairperson (Ketua Pelaksana)** | Tarumanagara Fair 2026 | 👑 Leadership |
+| **Aug 2026** | **Coordinator of Security Division** | PKKMB UNTAR 2026 | 👑 Leadership |
+| **May 2026** | Member of Funding & Sponsorship Division | Tarumanagara Sports and Art Competition 2026 | 🤝 Committee |
+| **Mar 2026** | Member of Equipment Division | LK Eksternal BEM UNTAR | 🤝 Committee |
+| **Mar 2026** | Participant | Latihan Keterampilan Manajemen Mahasiswa (LKMM) 2026 | 🎓 Training |
+| **Feb 2026** | **Coordinator of Funding & Sponsorship Division** | Bakti Sosial BEM UNTAR | 👑 Leadership |
+| **Feb 2026** | Member of Event Division | Tarumanagara Fair 2026 | 🤝 Committee |
+| **Oct 2025** | Participant | LK Internal BEM UNTAR | 🎓 Training |
+| **Sep 2025** | **Vice Coordinator of Security Division** | UKM Open House 2025 | 👑 Leadership |
+
+> 💡 *Experience in leadership, crowd and venue management, fundraising and sponsorship, event logistics, and cross-division coordination.*
+> 
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -101,11 +128,10 @@ A cross-platform finance tracker with a custom neo-brutalist UI, automatic trans
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Darren%20Evan%20Nathanael-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darren-evan-nathanael-014503283)
 [![Email](https://img.shields.io/badge/Email-darren.evan.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darren.evan.dev@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B62%20858--1306--2609-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285813062609)
 [![GitHub](https://img.shields.io/badge/GitHub-darrenevann-181717?style=for-the-badge&logo=github)](https://github.com/darrenevann)
 
 </div>
-
----
 
 <div align="center">
 
