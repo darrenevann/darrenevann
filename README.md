@@ -115,8 +115,6 @@ Active in student organizations at **Universitas Tarumanagara** through **BEM UN
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=darrenevann&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrenevann&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=darrenevann&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
